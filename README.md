@@ -11,4 +11,4 @@ yarn docs:dev
 yarn docs:build
 
 # 项目地址
-[](http://books.orangestudio.cn/)
+[橙果图书推荐](http://books.orangestudio.cn/)
