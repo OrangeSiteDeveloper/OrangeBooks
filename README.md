@@ -11,4 +11,4 @@ yarn docs:dev
 yarn docs:build
 
 # 项目地址
-！[](http://books.orangestudio.cn/)
+[](http://books.orangestudio.cn/)
